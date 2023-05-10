@@ -1,4 +1,4 @@
-![Color (1)](https://github.com/EdsoftIt/.github/assets/133149379/10b8e5c0-39fb-4875-82d4-a417bbd14af1)
+![Color (1)](https://github.com/EdsoftIt/.github/assets/133149379/fe0da3b6-94e6-4940-bb3f-ecac8f645090)
 
 <h1 align="center">
  Temos a missão de apoiar empresas no crescimento
@@ -8,7 +8,7 @@ A EDSOFT IT ajuda empresas públicas e privadas a ficarem permanentemente satisf
 <p/>
   
 <br>
- 
+
 <h1 align="center">
 Os valores por trás de nossa empresa
 <h1/>
